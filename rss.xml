@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[fotos de Bruno Amaral]]></title>
         <description><![CDATA[fotos de Bruno Amaral]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brunoamaral/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 13:04:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Mar 2016 13:13:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brunoamaral/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Peniche]]></title>
+            <description><![CDATA[<h1>Peniche</h1>]]></description>
+            <link>https://thegrid.ai/brunoamaral/peniche/index.html</link>
+            <guid isPermaLink="false">46ce68d8-0342-4d36-b4ff-c1be7195ed53</guid>
+            <pubDate>Thu, 03 Mar 2016 13:12:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d270c7e-33b7-4244-addf-92bdbc872f01.png">]]></description>
-            <link>undefined0a7a3a83-a561-4015-b9ce-4e602aeab662/index.html</link>
+            <link>https://thegrid.ai/brunoamaral/0a7a3a83-a561-4015-b9ce-4e602aeab662/index.html</link>
             <guid isPermaLink="false">0a7a3a83-a561-4015-b9ce-4e602aeab662</guid>
             <pubDate>Thu, 03 Mar 2016 13:03:17 GMT</pubDate>
         </item>
