@@ -1,6 +1,6 @@
 name: fotos de Bruno Amaral
 favicon: null
-layout_spectrum: 0.8357831749599427
+layout_spectrum: 1
 typography_spectrum: 0.11963611794635653
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.21203614166006446
-  lightness: 0.5696213149931282
-  saturation: 0.5535385170951486
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.75
   rhythmicContrast: 0.7728908262215555
 purpose: []
